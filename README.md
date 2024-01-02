@@ -38,7 +38,7 @@ Create a code quiz that contains the following requirements:
 
 
 * The URL of the functional, deployed application.
-
+https://aftabahmad888.github.io/quiz_application/
 
 * The URL of the GitHub repository.
 
